@@ -4,7 +4,7 @@ from datetime import datetime
 import asyncio
 
 # ===== КОНФИГУРАЦИЯ =====
-TOKEN = "MTUyNjk0MDgwNTc4NzQyMjgzMQ.GaeQFF.zdCHoEIKiGiIjsqcA9RDlRZIRLZZwOnYwagIMk"  # Замените на реальный токен
+TOKEN = "MTUyNjk0MDgwNTc4NzQyMjgzMQ.Gp-Ltj.cwAaDXUcsLOvs6c4Q8PXlyqkvzfmgnbmKJk75Q"  # Замените на реальный токен
 LOG_CHANNEL_ID = 1458454605594628229  # ID канала для логов (замените)
 
 # ===== НАСТРОЙКА ИНТЕНТОВ =====
